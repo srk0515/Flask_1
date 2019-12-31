@@ -12,3 +12,4 @@ with open('hazmat.csv','r') as csv_file:
         print(line[1])
         print(line)
 
+        print(line)
